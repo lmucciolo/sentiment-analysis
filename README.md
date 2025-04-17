@@ -1,1 +1,2 @@
-# sentiment-analysis
+
+## Machine Learning in Finance Final Project
