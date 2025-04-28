@@ -16,7 +16,7 @@ Read more about uv [here](https://docs.astral.sh/uv/guides/projects/#uvlock).
 
 ### Workflow
 
-1. Run 'uv sync' to ensure you are working in the proper environment
+1. Run `uv sync` to ensure you are working in the proper environment
 2. If using command line, run `git pull` to pull in most recent repo changes
 3. If any edits are made, run `git add <file name>` to stage/track changes
 4. To commit changes, run `git commit -m "commit message here"`
