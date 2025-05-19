@@ -1,6 +1,17 @@
-# Sentiment Analysis on Financial Data
+# Uncovering Informational Value in 8-K Disclosures Using NLP
 
-[add summary here]
+By leveraging a state-of-the-art NLP model, we aim to determine whether nuanced language cues in 8-K disclosures contain incremental information for stock return prediction beyond what traditional financial factors capture.
+
+
+## Repository Layout
+
+* `data`: contains necessary data files and data download files
+* `utils`: contains main modeling script
+* `proposal`: contains all documents related to the project proposal
+* `deliverables`: contains all documents related to project delivery (presentation and paper)
+* `resources`: contains resources for using git and the command line interface
+
+Note: In order to access the financial data (ff_daily_factors, ff_monthly_factors) you will need a [WRDS](https://wrds-www.wharton.upenn.edu/) account.
 
 ## Contributing
 
@@ -22,11 +33,6 @@ Read more about uv [here](https://docs.astral.sh/uv/guides/projects/#uvlock).
 4. To commit changes, run `git commit -m "commit message here"`
 5. To push commits to repo, run `git push origin`
 
-
-## Repository Layout
-
-* `data`: contains data files used in project
-* `proposal`: contains all documents related to the project proposal
 
 ## Development
 
